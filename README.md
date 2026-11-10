@@ -35,12 +35,23 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+### Production work
+
+| Project | Description | Links |
 |---|---|---|
-| [Portfolio](https://github.com/zyadyasser1472/zyad-yasser-portfolio) · [Live](https://zyadyasser1472.github.io/zyad-yasser-portfolio/) | My personal portfolio, focused on performance and UI/UX | Next.js · TypeScript · Tailwind |
-| [mealify](https://github.com/zyadyasser1472/mealify) | Restaurants website | HTML · CSS |
-| [Weather](https://github.com/zyadyasser1472/Weather) | Weather forecast app | HTML · CSS · JavaScript |
-| [yummy](https://github.com/zyadyasser1472/yummy) | Recipes app | JavaScript |
+| **Maksab** | Saudi job platform: job search, applications, and interview prep (built at Codetoon) | [Live](https://mksab.com.sa/) |
+| **Alfehris** | Middle East industry & trade directory: factories, suppliers, and contractors (built at Codetoon) | [Live](https://alfehris.com/) |
+| **Codetoon** | Software house website | [Live](https://codetoon.net/) |
+| **EBP Real Estate** | Real-estate platform with advanced property search and filters | [Live](https://egyptbestproperties.com/) |
+
+### Personal projects
+
+| Project | Description | Links |
+|---|---|---|
+| **Portfolio** | My personal portfolio · Next.js, TypeScript, Tailwind | [Live](https://zyadyasser1472.github.io/zyad-yasser-portfolio/) · [Code](https://github.com/zyadyasser1472/zyad-yasser-portfolio) |
+| **mealify** | Restaurants website · HTML, CSS | [Live](https://zyadyasser1472.github.io/mealify/) · [Code](https://github.com/zyadyasser1472/mealify) |
+| **Weather** | Weather forecast app · HTML, CSS, JavaScript | [Live](https://zyadyasser1472.github.io/Weather/) · [Code](https://github.com/zyadyasser1472/Weather) |
+| **yummy** | Recipes app · JavaScript | [Live](https://zyadyasser1472.github.io/yummy/) · [Code](https://github.com/zyadyasser1472/yummy) |
 
 ## 📈 Currently
 
