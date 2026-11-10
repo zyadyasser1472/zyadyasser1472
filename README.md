@@ -48,10 +48,10 @@
 
 | Project | Description | Links |
 |---|---|---|
-| **Portfolio** | My personal portfolio · Next.js, TypeScript, Tailwind | [Live](https://zyadyasser1472.github.io/zyad-yasser-portfolio/) · [Code](https://github.com/zyadyasser1472/zyad-yasser-portfolio) |
-| **mealify** | Restaurants website · HTML, CSS | [Live](https://zyadyasser1472.github.io/mealify/) · [Code](https://github.com/zyadyasser1472/mealify) |
-| **Weather** | Weather forecast app · HTML, CSS, JavaScript | [Live](https://zyadyasser1472.github.io/Weather/) · [Code](https://github.com/zyadyasser1472/Weather) |
-| **yummy** | Recipes app · JavaScript | [Live](https://zyadyasser1472.github.io/yummy/) · [Code](https://github.com/zyadyasser1472/yummy) |
+| **Portfolio** | My personal portfolio · Next.js, TypeScript, Tailwind | [Live](https://zyadyasser1472.github.io/zyad-yasser-portfolio/) |
+| **mealify** | Restaurants website · HTML, CSS | [Live](https://zyadyasser1472.github.io/mealify/) |
+| **Weather** | Weather forecast app · HTML, CSS, JavaScript | [Live](https://zyadyasser1472.github.io/Weather/) |
+| **yummy** | Recipes app · JavaScript | [Live](https://zyadyasser1472.github.io/yummy/) |
 
 ## 📈 Currently
 
