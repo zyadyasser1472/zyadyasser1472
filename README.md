@@ -13,7 +13,7 @@
   <a href="https://zyadyasser1472.github.io/zyad-yasser-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/zyad-yasser-8316b01a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:zyadyasser1420@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://zyadyasser1472.github.io/zyad-yasser-portfolio/Zyad_Yasser_Hussien.pdf"><img src="https://img.shields.io/badge/Download_CV-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
+  <a href="https://github.com/zyadyasser1472/zyadyasser1472/raw/main/Zyad_Yasser_Frontend_Developer.pdf"><img src="https://img.shields.io/badge/Download_CV-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
 </p>
 
 <p align="center">
