@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,graphql,apollo,jest,git,github,figma&perline=13" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,styledcomponents,jquery,graphql,apollo,jest,vite,nodejs,npm,git,github,vscode,postman,figma&perline=12" alt="Tech stack"/>
 </p>
 
 ## 💼 Experience
