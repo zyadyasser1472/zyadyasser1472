@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Zyad Yasser 👋</h1>
+
+<p align="center">
+  <a href="https://zyadyasser1472.github.io/zyad-yasser-portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Front-end+Developer+%40+Codetoon;React+%26+Next.js+Developer;Turning+Figma+designs+into+code;Building+fast%2C+accessible+web+apps" alt="Typing SVG"/></a>
+</p>
+
 <p align="center">
   <b>Front-end Developer @ Codetoon</b> — React, Next.js & TypeScript<br/>
   Fine Arts graduate turning Figma designs into fast, accessible, pixel-perfect web apps.
@@ -8,6 +13,11 @@
   <a href="https://zyadyasser1472.github.io/zyad-yasser-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/zyad-yasser-8316b01a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:zyadyasser1420@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://zyadyasser1472.github.io/zyad-yasser-portfolio/Zyad_Yasser_Hussien.pdf"><img src="https://img.shields.io/badge/Download_CV-16A34A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zyadyasser1472&label=Profile+views&color=3b82f6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -15,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,styledcomponents,jquery,graphql,apollo,jest,vite,nodejs,npm,git,github,vscode,postman,figma&perline=12" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass,materialui,styledcomponents,jquery,graphql,apollo,jest,vite,nodejs,npm,git,github,vscode,postman,figma,ps,ai&perline=13" alt="Tech stack"/>
 </p>
 
 ## 💼 Experience
@@ -53,8 +63,28 @@
 | **Weather** | Weather forecast app · HTML, CSS, JavaScript | [Live](https://zyadyasser1472.github.io/Weather/) |
 | **yummy** | Recipes app · JavaScript | [Live](https://zyadyasser1472.github.io/yummy/) |
 
+## 🎓 Education & Certificates
+
+- **Bachelor of Fine Arts** — Helwan University · _2018 – 2023_ · Graduation project: Excellent
+- **Front-End Developer Diploma** — Route Academy · _01/2025 – 08/2025_ · HTML/CSS, JavaScript, React, Tailwind CSS, REST APIs
+
+## 🌍 Languages
+
+- **Arabic** — Native
+- **English** — Professional working proficiency
+
 ## 📈 Currently
 
 - 🔭 Building products at Codetoon (most of my work lives in private repos)
 - 🌱 Leveling up in testing, performance, and accessibility
 - 🤝 Open to collaborating on front-end projects
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyadyasser1472/zyadyasser1472/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyadyasser1472/zyadyasser1472/output/github-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/zyadyasser1472/zyadyasser1472/output/github-snake.svg"/>
+  </picture>
+</p>
